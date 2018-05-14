@@ -1,0 +1,1 @@
+export { default } from 'ember-google-maps-sample-plugin/components/g-map-plugins/sample-plugin';

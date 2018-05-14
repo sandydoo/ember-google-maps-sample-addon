@@ -2090,6 +2090,15 @@ ember-export-application-global@^2.0.0:
   dependencies:
     ember-cli-babel "^6.0.0-beta.7"
 
+ember-google-maps@sandydoo/ember-google-maps:
+  version "1.1.0"
+  resolved "https://codeload.github.com/sandydoo/ember-google-maps/tar.gz/8241ebc7a811c0b6615025b316e72c3de1205eee"
+  dependencies:
+    broccoli-funnel "^2.0.1"
+    chalk "^2.3.1"
+    ember-cli-babel "^6.6.0"
+    ember-cli-htmlbars "^2.0.1"
+
 ember-load-initializers@^1.0.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/ember-load-initializers/-/ember-load-initializers-1.1.0.tgz#4edacc0f3a14d9f53d241ac3e5561804c8377978"
