@@ -1,10 +1,10 @@
 {
-  "name": "ember-google-maps-sample-plugin",
+  "name": "ember-google-maps-sample-addon",
   "version": "0.0.0",
   "description": "The default blueprint for ember-cli addons.",
   "keywords": [
     "ember-addon",
-    "ember-google-maps-plugin"
+    "ember-google-maps-addon"
   ],
   "license": "MIT",
   "author": "",

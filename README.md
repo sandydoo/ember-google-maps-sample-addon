@@ -1,4 +1,4 @@
-ember-google-maps-sample-plugin
+ember-google-maps-sample-addon
 ==============================================================================
 
 [Short description of the addon.]
@@ -7,7 +7,7 @@ Installation
 ------------------------------------------------------------------------------
 
 ```
-ember install ember-google-maps-sample-plugin
+ember install ember-google-maps-sample-addon
 ```
 
 
@@ -23,7 +23,7 @@ Contributing
 ### Installation
 
 * `git clone <repository-url>`
-* `cd ember-google-maps-sample-plugin`
+* `cd ember-google-maps-sample-addon`
 * `yarn install`
 
 ### Linting
