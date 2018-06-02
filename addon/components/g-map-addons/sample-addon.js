@@ -4,5 +4,7 @@ import layout from '../../templates/components/g-map-addons/sample-addon';
 export default MapComponent.extend({
   layout,
 
-  _type: 'sampleAddon'
+  _type: 'sampleAddon',
+
+  _addComponent() {}
 });
