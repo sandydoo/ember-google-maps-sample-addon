@@ -6,5 +6,7 @@ export default MapComponent.extend({
 
   _type: 'sampleAddon',
 
-  _addComponent() {}
+  _addComponent() {},
+
+  _updateComponent() {},
 });
