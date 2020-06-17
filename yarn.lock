@@ -4615,10 +4615,9 @@ ember-export-application-global@^2.0.1:
   resolved "https://registry.yarnpkg.com/ember-export-application-global/-/ember-export-application-global-2.0.1.tgz#b120a70e322ab208defc9e2daebe8d0dfc2dcd46"
   integrity sha512-B7wiurPgsxsSGzJuPFkpBWnaeuCu2PGpG2BjyrfA1VcL7//o+5RSnZqiCEY326y7qmxb2GoCgo0ft03KBU0rRw==
 
-ember-google-maps@^3.0.4:
+ember-google-maps@sandydoo/ember-google-maps#f7cc576b9287cc8787cbceb89021f0e52c5747a3:
   version "3.0.4"
-  resolved "https://registry.yarnpkg.com/ember-google-maps/-/ember-google-maps-3.0.4.tgz#0d2152fb7eccd8dc97e6f2f16c57d32cceb1c0e0"
-  integrity sha512-lx3MvNBA8uR62HkdzodDhEBA9qzlZzk4JH3WVtdGe/+ECRHjFmXbsymyLzpTZMuTiyxM74v+f0BQvneIMxnG5A==
+  resolved "https://codeload.github.com/sandydoo/ember-google-maps/tar.gz/f7cc576b9287cc8787cbceb89021f0e52c5747a3"
   dependencies:
     "@babel/plugin-proposal-object-rest-spread" "^7.9.6"
     broccoli-debug "^0.6.5"
