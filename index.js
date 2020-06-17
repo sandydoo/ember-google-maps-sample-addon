@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  name: 'ember-google-maps-sample-addon',
+  name: require('./package').name
 
   isDevelopingAddon() {
     return true;
